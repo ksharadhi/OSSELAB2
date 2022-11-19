@@ -1,0 +1,2 @@
+module OSSELAB2 {
+}
